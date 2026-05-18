@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Ferguson Romeo
 
-<!--
-**Forte-Romeo/Forte-Romeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student | Aspiring Software & AI Engineer
 
-Here are some ideas to get you started:
+## Current Focus 🎯
+- Fullstack Development
+- AI Integration
+- Building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 💻
+- Python, JavaScript, React, Node.js
+
+## Projects 📁
+- [Project 1]
+- [Project 2]
+
+## Goals (2026) ✅
+- Build 10+ projects
+- Land internship / freelance work
